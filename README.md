@@ -1,4 +1,4 @@
-Test WFDB Package and exploring the following functionalities:
+# Testing WFDB Package and exploring the following functionalities:
 - Download Physionet databases
 - Read ECG records
 - Plot ECG signals
