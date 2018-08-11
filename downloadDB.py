@@ -24,7 +24,7 @@ def validateDB(name):
     return found
 
 def downloadDB(name):
-    # Download WFDB record of Normal Sinus Rhythm of RRI DB
+    # Download WFDB record as requested by the user
     path = (os.getcwd() + '\\' + name)
     if os.path.exists(path):
         return name + " is already exist"
